@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 
 import Titles from "./components/Titles";
+import Form from "./components/Form";
+import Weather from "./components/Weather";
+
 
 class App extends React.Component {
 
@@ -12,7 +15,8 @@ class App extends React.Component {
 			<div> 
 			
 			<Titles />
-			
+			<Form />
+			<Weather />
 			
 			
 			
