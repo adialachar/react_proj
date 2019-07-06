@@ -13,10 +13,11 @@ class App extends React.Component {
 	
 		return(
 			<div> 
-			
+			<p> This is a test </p>
+			<h2> Titles component </h2>
 			<Titles />
 			<Form />
-			<Weather />
+			<Weather /> 
 			
 			
 			
