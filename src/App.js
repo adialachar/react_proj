@@ -33,7 +33,12 @@ class App extends React.Component {
 			<Titles />
 			<Form getWeather={this.getWeather}/>
 			<Weather /> 
-			
+			<h1></h1>
+			<h2></h2>
+
+			<h1> Hello <h1>
+			<h2> Hey </h2>
+			<h1> Hey </h1>
 			
 			
 			</div>
